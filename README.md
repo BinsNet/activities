@@ -1,4 +1,4 @@
-# hookup4u
+# Activities in your Area
 
 A new Flutter application.
 
